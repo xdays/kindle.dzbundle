@@ -1,6 +1,6 @@
 # Kindle
 
-Send book to Kindle by email
+[Dropzone3](https://aptonic.com/) action that sends book to Kindle by email
 
 # Install
 
